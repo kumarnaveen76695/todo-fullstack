@@ -49,19 +49,23 @@ The simple Todo Backend part: The backend deploy url is:https://todo-backend-8tf
 
 The signup:https://todo-backend-8tfs.onrender.com/api/auth/signup
 
-WhatsApp Image 2024-11-13 at 12 39 27_857c9cb3
+![WhatsApp Image 2024-11-13 at 12 39 27_ee5780f7](https://github.com/user-attachments/assets/30ff5500-4818-464c-8215-608f0808ea8c)
+
 
 The login:https://todo-backend-8tfs.onrender.com/api/auth/login
 
-WhatsApp Image 2024-11-13 at 12 40 37_0bf73293
+![WhatsApp Image 2024-11-13 at 12 40 37_97c67bed](https://github.com/user-attachments/assets/f32d31d4-3744-42f8-a36c-e57768f36e38)
+
 
 The todospost:https://todo-backend-8tfs.onrender.com/api/todos
 
-WhatsApp Image 2024-11-13 at 12 37 26_778e78f6
+![WhatsApp Image 2024-11-13 at 12 37 26_ed39202f](https://github.com/user-attachments/assets/720e89ec-b102-4ffd-98df-63d75c7a013c)
+
 
 The getting all todos:https://todo-backend-8tfs.onrender.com/api/todos
 
-WhatsApp Image 2024-11-13 at 12 43 41_4b9477a6
+![WhatsApp Image 2024-11-13 at 12 43 41_d416dfb3](https://github.com/user-attachments/assets/8daedb50-4347-4cd7-ba3a-fcffb3232254)
+
 
 ### Code Splitting
 
