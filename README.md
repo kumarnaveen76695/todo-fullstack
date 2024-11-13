@@ -45,6 +45,24 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
+The simple Todo Backend part: The backend deploy url is:https://todo-backend-8tfs.onrender.com
+
+The signup:https://todo-backend-8tfs.onrender.com/api/auth/signup
+
+WhatsApp Image 2024-11-13 at 12 39 27_857c9cb3
+
+The login:https://todo-backend-8tfs.onrender.com/api/auth/login
+
+WhatsApp Image 2024-11-13 at 12 40 37_0bf73293
+
+The todospost:https://todo-backend-8tfs.onrender.com/api/todos
+
+WhatsApp Image 2024-11-13 at 12 37 26_778e78f6
+
+The getting all todos:https://todo-backend-8tfs.onrender.com/api/todos
+
+WhatsApp Image 2024-11-13 at 12 43 41_4b9477a6
+
 ### Code Splitting
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
